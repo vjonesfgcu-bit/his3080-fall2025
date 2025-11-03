@@ -60,6 +60,8 @@ metadata: Copy of psychiana_cbdemo_gh
 #
 # ignore stuff
 exclude: [docs/, Rakefile, README.md, LICENSE, CITATION.cff, CODE_OF_CONDUCT.md, CONTRIBUTING.md]
+exclude: assets/data/*.csv
+exclude: assets/data/*.json
 # compress CSS output
 sass:
   style: compressed
