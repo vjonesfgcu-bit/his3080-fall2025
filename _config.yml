@@ -67,8 +67,6 @@ exclude:
   - README.md
   - docs/*.csv
   - docs/*.md
-  - assets/data/*.csv
-  - assets/data/*.json
 # compress CSS output
 sass:
   style: compressed
