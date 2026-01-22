@@ -25,3 +25,11 @@ For full details of creating your own collection site, visit [CollectionBuilder 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
+
+## Introduction 
+
+I have compliled themse from the collections because they are super cool. 
+Check out my video!
+
+<a href="https://www.youtube.com/watch?v=tOOoSHIQ2RY&list=PLt9zT3xACQo7q72AfphJzH41OiPcZrF4H&index=11" target="_blank"><img src="http://img.youtube.com/vi/tOOoSHIQ2RY&list=PLt9zT3xACQo7q72AfphJzH41OiPcZrF4H/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
